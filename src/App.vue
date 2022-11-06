@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/"><h3>Home page</h3></router-link>
+    <router-link to="/"><h3>Kanban page</h3></router-link>
     <router-link to="/secondary"><h3>Secondary page</h3></router-link>
   </nav>
   <router-view></router-view>
